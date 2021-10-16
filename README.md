@@ -1,2 +1,2 @@
 # try-hacktoberfest
-I will accept first 10 PRs
+I will accept every PRs
